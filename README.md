@@ -8,4 +8,5 @@ Collection of 214 far-right hate symbols, including descriptions, a spreadsheet 
 This collection of symbols (and related data) was scraped from the ADL's website in August 2023 for convenient, offline browsing (/resources/hate-symbols/search)
 The images appear to have been originally collected from publicly available sources.
 
-![https://github.com/pil2u/hate-symbols/tree/main/images](images/_collage.png?raw=true)
+![https://github.com/pil2u/hate-symbols/tree/main/images](images/collage.png?raw=true)
+![https://github.com/pil2u/hate-symbols](images/offline-viewer-screenshot.jpg?raw=true)
