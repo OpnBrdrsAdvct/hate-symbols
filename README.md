@@ -13,3 +13,6 @@ The images appear to have been originally collected from publicly available sour
 ![https://github.com/pil2u/hate-symbols](images/offline-viewer-screenshot.jpg?raw=true)
 ---
 ![https://github.com/pil2u/hate-symbols](images/wordcloud.png?raw=true)
+---
+![https://github.com/pil2u/hate-symbols](images/dataset_screenshot.jpg?raw=true)
+---
